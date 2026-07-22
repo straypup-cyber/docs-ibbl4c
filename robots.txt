@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-hfpusk.yoursingles.online/sitemap.xml
